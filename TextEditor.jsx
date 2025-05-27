@@ -1,3 +1,9 @@
+// resources
+// https://reactjs-tiptap-editor.vercel.app/
+
+// installation
+// npm install reactjs-tiptap-editor@latest
+
 import { useState } from "react";
 import RichTextEditor from "reactjs-tiptap-editor";
 import { BaseKit } from "reactjs-tiptap-editor";
